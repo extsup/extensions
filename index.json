@@ -2,10 +2,10 @@
   {
     "name": "Tachiyomi: Komiku CC",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikucc",
-    "apk": "tachiyomi-id.komikucc-v1.4.1.apk",
+    "apk": "tachiyomi-id.komikucc-v1.4.999.apk",
     "lang": "id",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 999,
+    "version": "1.4.999",
     "nsfw": 0,
     "sources": [
       {
