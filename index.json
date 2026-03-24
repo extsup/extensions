@@ -1,5 +1,23 @@
 [
   {
+    "name": "Tachiyomi: KeiKomik",
+    "pkg": "eu.kanade.tachiyomi.extension.id.keikomik",
+    "apk": "tachiyomi-id.keikomik-v1.4.1.apk",
+    "lang": "id",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "KeiKomik",
+        "lang": "id",
+        "id": "9193340322612780041",
+        "baseUrl": "https://keikomik.web.id",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Komiku CC",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikucc",
     "apk": "tachiyomi-id.komikucc-v1.4.999.apk",
