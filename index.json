@@ -20,10 +20,10 @@
   {
     "name": "Tachiyomi: NgomikID",
     "pkg": "eu.kanade.tachiyomi.extension.id.ngomikid",
-    "apk": "tachiyomi-id.ngomikid-v1.4.31.apk",
+    "apk": "tachiyomi-id.ngomikid-v1.4.1029.apk",
     "lang": "id",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 1029,
+    "version": "1.4.1029",
     "nsfw": 0,
     "sources": [
       {
