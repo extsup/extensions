@@ -2,6 +2,7 @@
   "meta": {
     "name": "extsup Extensions",
     "website": "https://extsup.github.io",
+    "icon": "https://raw.githubusercontent.com/extsup/extsup.github.io/refs/heads/main/android-chrome-192x192.png",
     "signingKeyFingerprint": "e50c5c9b0419190e4365819f9e4234020c563eb07bdfc9c3c0a5aa7db8007b40"
   }
 }
