@@ -2,10 +2,10 @@
   {
     "name": "Tachiyomi: Komiku CC",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikucc",
-    "apk": "tachiyomi-id.komikucc-v1.4.999.apk",
+    "apk": "tachiyomi-id.komikucc-v1.4.1.apk",
     "lang": "id",
-    "code": 999,
-    "version": "1.4.999",
+    "code": 1,
+    "version": "1.4.1",
     "nsfw": 0,
     "sources": [
       {
@@ -20,10 +20,10 @@
   {
     "name": "Tachiyomi: NgomikID",
     "pkg": "eu.kanade.tachiyomi.extension.id.ngomikid",
-    "apk": "tachiyomi-id.ngomikid-v1.4.1029.apk",
+    "apk": "tachiyomi-id.ngomikid-v1.4.31.apk",
     "lang": "id",
-    "code": 1029,
-    "version": "1.4.1029",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "sources": [
       {
@@ -38,10 +38,10 @@
   {
     "name": "Tachiyomi: Softkomik",
     "pkg": "eu.kanade.tachiyomi.extension.id.softkomik",
-    "apk": "tachiyomi-id.softkomik-v1.4.999.apk",
+    "apk": "tachiyomi-id.softkomik-v1.4.1.apk",
     "lang": "id",
-    "code": 999,
-    "version": "1.4.999",
+    "code": 1,
+    "version": "1.4.1",
     "nsfw": 0,
     "sources": [
       {
