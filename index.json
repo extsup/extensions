@@ -36,6 +36,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Shinigami",
+    "pkg": "eu.kanade.tachiyomi.extension.id.shinigami",
+    "apk": "tachiyomi-id.shinigami-v1.4.76.apk",
+    "lang": "id",
+    "code": 76,
+    "version": "1.4.76",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Shinigami",
+        "lang": "id",
+        "id": "3411809758861089969",
+        "baseUrl": "https://c.shinigami.asia",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Softkomik",
     "pkg": "eu.kanade.tachiyomi.extension.id.softkomik",
     "apk": "tachiyomi-id.softkomik-v1.4.1.apk",
