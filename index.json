@@ -1,5 +1,23 @@
 [
   {
+    "name": "Tachiyomi: Kiryuu",
+    "pkg": "eu.kanade.tachiyomi.extension.id.kiryuu",
+    "apk": "tachiyomi-id.kiryuu-v1.4.49.apk",
+    "lang": "id",
+    "code": 49,
+    "version": "1.4.49",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Kiryuu",
+        "lang": "id",
+        "id": "3639673976007021338",
+        "baseUrl": "https://v4.kiryuu.to",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Komiku CC",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikucc",
     "apk": "tachiyomi-id.komikucc-v1.4.1.apk",
@@ -13,6 +31,24 @@
         "lang": "id",
         "id": "2728675648091097202",
         "baseUrl": "https://komiku.cc",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Ikiru",
+    "pkg": "eu.kanade.tachiyomi.extension.id.mangatale",
+    "apk": "tachiyomi-id.mangatale-v1.4.46.apk",
+    "lang": "id",
+    "code": 46,
+    "version": "1.4.46",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Ikiru",
+        "lang": "id",
+        "id": "1532456597012176985",
+        "baseUrl": "https://02.ikiru.wtf",
         "versionId": 1
       }
     ]
