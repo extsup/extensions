@@ -54,6 +54,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: MGKomikWeb",
+    "pkg": "eu.kanade.tachiyomi.extension.id.mgkomikweb",
+    "apk": "tachiyomi-id.mgkomikweb-v1.4.1.apk",
+    "lang": "id",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "MGKomikWeb",
+        "lang": "id",
+        "id": "3118106395675658385",
+        "baseUrl": "https://web.mgkomik.cc",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: NgomikID",
     "pkg": "eu.kanade.tachiyomi.extension.id.ngomikid",
     "apk": "tachiyomi-id.ngomikid-v1.4.31.apk",
