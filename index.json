@@ -1,5 +1,65 @@
 [
   {
+    "name": "Tachiyomi: Manhuarm",
+    "pkg": "eu.kanade.tachiyomi.extension.all.manhuarm",
+    "apk": "tachiyomi-all.manhuarm-v1.4.64.apk",
+    "lang": "all",
+    "code": 64,
+    "version": "1.4.64",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Manhuarm",
+        "lang": "ar",
+        "id": "797946349800265191",
+        "baseUrl": "https://manhuarmtl.com",
+        "versionId": 1
+      },
+      {
+        "name": "Manhuarm",
+        "lang": "en",
+        "id": "7690709834650404718",
+        "baseUrl": "https://manhuarmtl.com",
+        "versionId": 1
+      },
+      {
+        "name": "Manhuarm",
+        "lang": "es",
+        "id": "8547169224512757621",
+        "baseUrl": "https://manhuarmtl.com",
+        "versionId": 1
+      },
+      {
+        "name": "Manhuarm",
+        "lang": "fr",
+        "id": "8537659881437820380",
+        "baseUrl": "https://manhuarmtl.com",
+        "versionId": 1
+      },
+      {
+        "name": "Manhuarm",
+        "lang": "id",
+        "id": "6421419166134585378",
+        "baseUrl": "https://manhuarmtl.com",
+        "versionId": 1
+      },
+      {
+        "name": "Manhuarm",
+        "lang": "it",
+        "id": "7611240442736670513",
+        "baseUrl": "https://manhuarmtl.com",
+        "versionId": 1
+      },
+      {
+        "name": "Manhuarm",
+        "lang": "pt-BR",
+        "id": "5618121635049025093",
+        "baseUrl": "https://manhuarmtl.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Kiryuu",
     "pkg": "eu.kanade.tachiyomi.extension.id.kiryuu",
     "apk": "tachiyomi-id.kiryuu-v1.4.49.apk",
