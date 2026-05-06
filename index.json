@@ -114,6 +114,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: MG Komik",
+    "pkg": "eu.kanade.tachiyomi.extension.id.mgkomik",
+    "apk": "tachiyomi-id.mgkomik-v1.4.64.apk",
+    "lang": "id",
+    "code": 64,
+    "version": "1.4.64",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "MG Komik",
+        "lang": "id",
+        "id": "5845004992097969882",
+        "baseUrl": "https://id.mgkomik.cc",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MGKomikWeb",
     "pkg": "eu.kanade.tachiyomi.extension.id.mgkomikweb",
     "apk": "tachiyomi-id.mgkomikweb-v1.4.3.apk",
