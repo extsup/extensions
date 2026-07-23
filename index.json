@@ -9,6 +9,27 @@
   "extensionList": {
     "extensions": [
       {
+        "name": "MGKomikWeb Beta",
+        "packageName": "eu.kanade.tachiyomi.extension.id.mgkomikwebbeta",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-id.mgkomikwebbeta-v1.6.4.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.id.mgkomikwebbeta.png",
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-id.mgkomikwebbeta-v1.6.4.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "4",
+        "versionName": "1.6.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "6230819197296106759",
+            "name": "MGKomikWeb Beta",
+            "language": "id",
+            "homeUrl": "https://web1.mgkomik.cc"
+          }
+        ]
+      },
+      {
         "name": "Soul Scans Beta",
         "packageName": "eu.kanade.tachiyomi.extension.id.soulscansbeta",
         "resources": {
