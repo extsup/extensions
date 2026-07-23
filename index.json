@@ -1,1 +1,34 @@
-[]
+{
+  "name": "Keiyoushi",
+  "badgeLabel": "KEI",
+  "signingKey": "9add655a78e96c4ec7a53ef89dccb557cb5d767489fac5e785d671a5a75d4da2",
+  "contact": {
+    "website": "https://keiyoushi.github.io",
+    "discord": "https://discord.gg/3FbCpdKbdY"
+  },
+  "extensionList": {
+    "extensions": [
+      {
+        "name": "Soul Scans Beta",
+        "packageName": "eu.kanade.tachiyomi.extension.id.soulscansbeta",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-id.soulscansbeta-v1.4.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.id.soulscansbeta.png",
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-id.soulscansbeta-v1.4.1.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "3716466210575139667",
+            "name": "Soul Scans Beta",
+            "language": "id",
+            "homeUrl": "https://v1.soulscans.asia"
+          }
+        ]
+      }
+    ]
+  }
+}
