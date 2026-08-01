@@ -1,9 +1,9 @@
 {
   "name": "Extsup",
   "badgeLabel": "Extsup",
-  "signingKey": "9a38827dab0626136e990f1a42fb9777ab0057dbb96155b99fb987856054540ed2a",
+  "signingKey": "38827dab0626136e990f1a42fb9777ab0057dbb96155b99fb987856054540ed2a",
   "contact": {
-    "website": "https://extsup.github.io",
+    "website": "https://extsup.github.io"
   },
   "extensionList": {
     "extensions": [
