@@ -30,6 +30,27 @@
         ]
       },
       {
+        "name": "Shinigami Beta",
+        "packageName": "eu.kanade.tachiyomi.extension.id.shinigamibeta",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-id.shinigamibeta-v1.4.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.id.shinigamibeta.png",
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-id.shinigamibeta-v1.4.1.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "1089581862675733054",
+            "name": "Shinigami Beta",
+            "language": "id",
+            "homeUrl": "https://11.shinigami.asia"
+          }
+        ]
+      },
+      {
         "name": "Soul Scans Beta",
         "packageName": "eu.kanade.tachiyomi.extension.id.soulscansbeta",
         "resources": {
