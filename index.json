@@ -1,10 +1,9 @@
 {
-  "name": "Keiyoushi",
-  "badgeLabel": "KEI",
-  "signingKey": "9add655a78e96c4ec7a53ef89dccb557cb5d767489fac5e785d671a5a75d4da2",
+  "name": "Extsup",
+  "badgeLabel": "Extsup",
+  "signingKey": "9a38827dab0626136e990f1a42fb9777ab0057dbb96155b99fb987856054540ed2a",
   "contact": {
-    "website": "https://keiyoushi.github.io",
-    "discord": "https://discord.gg/3FbCpdKbdY"
+    "website": "https://extsup.github.io",
   },
   "extensionList": {
     "extensions": [
