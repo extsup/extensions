@@ -9,6 +9,27 @@
   "extensionList": {
     "extensions": [
       {
+        "name": "Komik Cast Beta",
+        "packageName": "eu.kanade.tachiyomi.extension.id.komikcastbeta",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-id.komikcastbeta-v1.4.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.id.komikcastbeta.png",
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-id.komikcastbeta-v1.4.1.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "3981010475323362893",
+            "name": "Komik Cast Beta",
+            "language": "id",
+            "homeUrl": "https://v3.komikcast.fit"
+          }
+        ]
+      },
+      {
         "name": "MGKomikWeb Beta",
         "packageName": "eu.kanade.tachiyomi.extension.id.mgkomikwebbeta",
         "resources": {
