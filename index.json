@@ -8,6 +8,27 @@
   "extensionList": {
     "extensions": [
       {
+        "name": "Komikav Beta",
+        "packageName": "eu.kanade.tachiyomi.extension.id.komikavbeta",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@repo/apk/tachiyomi-id.komikavbeta-v1.4.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@repo/icon/eu.kanade.tachiyomi.extension.id.komikavbeta.png",
+          "jarUrl": "https://raw.githubusercontent.com/extsup/extensions/repo/jar/tachiyomi-id.komikavbeta-v1.4.1.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "3918599283516189009",
+            "name": "Komikav Beta",
+            "language": "id",
+            "homeUrl": "https://komikav.net"
+          }
+        ]
+      },
+      {
         "name": "Komik Cast Beta",
         "packageName": "eu.kanade.tachiyomi.extension.id.komikcastbeta",
         "resources": {
