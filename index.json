@@ -1,10 +1,9 @@
 {
-  "name": "Keiyoushi",
-  "badgeLabel": "KEI",
+  "name": "extsup",
+  "badgeLabel": "EXT",
   "signingKey": "9add655a78e96c4ec7a53ef89dccb557cb5d767489fac5e785d671a5a75d4da2",
   "contact": {
-    "website": "https://keiyoushi.github.io",
-    "discord": "https://discord.gg/3FbCpdKbdY"
+    "website": "https://github.com/extsup/extensions"
   },
   "extensionList": {
     "extensions": [
@@ -12,9 +11,9 @@
         "name": "Komik Cast Beta",
         "packageName": "eu.kanade.tachiyomi.extension.id.komikcastbeta",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-id.komikcastbeta-v1.4.1.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.id.komikcastbeta.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-id.komikcastbeta-v1.4.1.jar"
+          "apkUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@repo/apk/tachiyomi-id.komikcastbeta-v1.4.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@repo/icon/eu.kanade.tachiyomi.extension.id.komikcastbeta.png",
+          "jarUrl": "https://raw.githubusercontent.com/extsup/extensions/repo/jar/tachiyomi-id.komikcastbeta-v1.4.1.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "1",
@@ -33,9 +32,9 @@
         "name": "MGKomikWeb Beta",
         "packageName": "eu.kanade.tachiyomi.extension.id.mgkomikwebbeta",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-id.mgkomikwebbeta-v1.6.4.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.id.mgkomikwebbeta.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-id.mgkomikwebbeta-v1.6.4.jar"
+          "apkUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@repo/apk/tachiyomi-id.mgkomikwebbeta-v1.6.4.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@repo/icon/eu.kanade.tachiyomi.extension.id.mgkomikwebbeta.png",
+          "jarUrl": "https://raw.githubusercontent.com/extsup/extensions/repo/jar/tachiyomi-id.mgkomikwebbeta-v1.6.4.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "4",
@@ -54,9 +53,9 @@
         "name": "Shinigami Beta",
         "packageName": "eu.kanade.tachiyomi.extension.id.shinigamibeta",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-id.shinigamibeta-v1.4.2.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.id.shinigamibeta.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-id.shinigamibeta-v1.4.2.jar"
+          "apkUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@repo/apk/tachiyomi-id.shinigamibeta-v1.4.2.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@repo/icon/eu.kanade.tachiyomi.extension.id.shinigamibeta.png",
+          "jarUrl": "https://raw.githubusercontent.com/extsup/extensions/repo/jar/tachiyomi-id.shinigamibeta-v1.4.2.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "2",
@@ -75,9 +74,9 @@
         "name": "Soul Scans Beta",
         "packageName": "eu.kanade.tachiyomi.extension.id.soulscansbeta",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-id.soulscansbeta-v1.4.2.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.id.soulscansbeta.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-id.soulscansbeta-v1.4.2.jar"
+          "apkUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@repo/apk/tachiyomi-id.soulscansbeta-v1.4.2.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@repo/icon/eu.kanade.tachiyomi.extension.id.soulscansbeta.png",
+          "jarUrl": "https://raw.githubusercontent.com/extsup/extensions/repo/jar/tachiyomi-id.soulscansbeta-v1.4.2.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "2",
