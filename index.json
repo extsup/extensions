@@ -21272,20 +21272,20 @@
         "name": "MikoRoku",
         "packageName": "eu.kanade.tachiyomi.extension.id.mikoroku",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@ori/apk/tachiyomi-id.mikoroku-v1.4.18.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@ori/apk/tachiyomi-id.mikoroku-v1.4.19.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@ori/icon/eu.kanade.tachiyomi.extension.id.mikoroku.png",
-          "jarUrl": "https://raw.githubusercontent.com/extsup/extensions/ori/jar/tachiyomi-id.mikoroku-v1.4.18.jar"
+          "jarUrl": "https://raw.githubusercontent.com/extsup/extensions/ori/jar/tachiyomi-id.mikoroku-v1.4.19.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "18",
-        "versionName": "1.4.18",
+        "versionCode": "19",
+        "versionName": "1.4.19",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "8593493873810750465",
             "name": "MikoRoku",
             "language": "id",
-            "homeUrl": "https://www.mikoroku.com"
+            "homeUrl": "https://mikoroku.com"
           }
         ]
       },
