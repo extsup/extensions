@@ -29,6 +29,27 @@
         ]
       },
       {
+        "name": "Kiryuu Beta",
+        "packageName": "eu.kanade.tachiyomi.extension.id.kiryuubeta",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@repo/apk/tachiyomi-id.kiryuubeta-v1.4.5.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@repo/icon/eu.kanade.tachiyomi.extension.id.kiryuubeta.png",
+          "jarUrl": "https://raw.githubusercontent.com/extsup/extensions/repo/jar/tachiyomi-id.kiryuubeta-v1.4.5.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "5",
+        "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "3639673976007021338",
+            "name": "Kiryuu Beta",
+            "language": "id",
+            "homeUrl": "https://v7.kiryuu.to"
+          }
+        ]
+      },
+      {
         "name": "Komikav Beta",
         "packageName": "eu.kanade.tachiyomi.extension.id.komikavbeta",
         "resources": {
