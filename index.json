@@ -20453,13 +20453,13 @@
         "name": "ReYume",
         "packageName": "eu.kanade.tachiyomi.extension.id.inazumanga",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@repo/apk/tachiyomi-id.inazumanga-v1.4.42.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@repo/apk/tachiyomi-id.inazumanga-v1.4.43.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@repo/icon/eu.kanade.tachiyomi.extension.id.inazumanga.png",
-          "jarUrl": "https://raw.githubusercontent.com/extsup/extensions/repo/jar/tachiyomi-id.inazumanga-v1.4.42.jar"
+          "jarUrl": "https://raw.githubusercontent.com/extsup/extensions/repo/jar/tachiyomi-id.inazumanga-v1.4.43.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "42",
-        "versionName": "1.4.42",
+        "versionCode": "43",
+        "versionName": "1.4.43",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
