@@ -3,7 +3,7 @@
   "badgeLabel": "extsup",
   "signingKey": "af8dce867726424977496de4c45340bcf7388c184b75a823b6d7d69bee8fafd4",
   "contact": {
-    "website": "https://www.facebook.com/profile.php?id=61591490231900&mibextid=rS40aB7S9Ucbxw6v"
+    "website": "https://github.com/extsup/extensions"
   },
   "extensionList": {
     "extensions": [
@@ -21647,6 +21647,27 @@
         ]
       },
       {
+        "name": "Shinigami Beta",
+        "packageName": "eu.kanade.tachiyomi.extension.id.shinigamibeta",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@repo/apk/tachiyomi-id.shinigamibeta-v1.4.2.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@repo/icon/eu.kanade.tachiyomi.extension.id.shinigamibeta.png",
+          "jarUrl": "https://raw.githubusercontent.com/extsup/extensions/repo/jar/tachiyomi-id.shinigamibeta-v1.4.2.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "2",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "1089581862675733054",
+            "name": "Shinigami Beta",
+            "language": "id",
+            "homeUrl": "https://11.shinigami.asia"
+          }
+        ]
+      },
+      {
         "name": "Shirakami",
         "packageName": "eu.kanade.tachiyomi.extension.id.shirakami",
         "resources": {
@@ -21769,6 +21790,27 @@
             "name": "Soul Scans",
             "language": "id",
             "homeUrl": "https://soulscans.my.id"
+          }
+        ]
+      },
+      {
+        "name": "Soul Scans Beta",
+        "packageName": "eu.kanade.tachiyomi.extension.id.soulscansbeta",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@repo/apk/tachiyomi-id.soulscansbeta-v1.4.3.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@repo/icon/eu.kanade.tachiyomi.extension.id.soulscansbeta.png",
+          "jarUrl": "https://raw.githubusercontent.com/extsup/extensions/repo/jar/tachiyomi-id.soulscansbeta-v1.4.3.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "3716466210575139667",
+            "name": "Soul Scans Beta",
+            "language": "id",
+            "homeUrl": "https://v1.soulscans.org"
           }
         ]
       },
