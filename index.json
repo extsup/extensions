@@ -20432,20 +20432,20 @@
         "name": "Hwago",
         "packageName": "eu.kanade.tachiyomi.extension.id.hwago",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@ori/apk/tachiyomi-id.hwago-v1.4.56.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@ori/apk/tachiyomi-id.hwago-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@ori/icon/eu.kanade.tachiyomi.extension.id.hwago.png",
-          "jarUrl": "https://raw.githubusercontent.com/extsup/extensions/ori/jar/tachiyomi-id.hwago-v1.4.56.jar"
+          "jarUrl": "https://raw.githubusercontent.com/extsup/extensions/ori/jar/tachiyomi-id.hwago-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "56",
-        "versionName": "1.4.56",
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "5490253431755133280",
             "name": "Hwago",
             "language": "id",
-            "homeUrl": "https://01.hwago.xyz"
+            "homeUrl": "https://02.hwago.xyz"
           }
         ]
       },
