@@ -20810,13 +20810,13 @@
         "name": "Komiku",
         "packageName": "eu.kanade.tachiyomi.extension.id.komiku",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@ori/apk/tachiyomi-id.komiku-v1.4.21.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@ori/apk/tachiyomi-id.komiku-v1.4.22.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@ori/icon/eu.kanade.tachiyomi.extension.id.komiku.png",
-          "jarUrl": "https://raw.githubusercontent.com/extsup/extensions/ori/jar/tachiyomi-id.komiku-v1.4.21.jar"
+          "jarUrl": "https://raw.githubusercontent.com/extsup/extensions/ori/jar/tachiyomi-id.komiku-v1.4.22.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "21",
-        "versionName": "1.4.21",
+        "versionCode": "22",
+        "versionName": "1.4.22",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
