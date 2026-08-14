@@ -9189,13 +9189,13 @@
         "name": "Kiryuu",
         "packageName": "eu.kanade.tachiyomi.extension.id.kiryuu",
         "resources": {
-          "apkUrl": "https://github.com/extsup/extensions/releases/download/3af2b80/tachiyomi-id.kiryuu-v1.4.58.apk",
+          "apkUrl": "https://github.com/extsup/extensions/releases/download/33db3c9/tachiyomi-id.kiryuu-v1.4.59.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@ori/icon/eu.kanade.tachiyomi.extension.id.kiryuu.png",
-          "jarUrl": "https://github.com/extsup/extensions/releases/download/3af2b80/tachiyomi-id.kiryuu-v1.4.58.jar"
+          "jarUrl": "https://github.com/extsup/extensions/releases/download/33db3c9/tachiyomi-id.kiryuu-v1.4.59.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "58",
-        "versionName": "1.4.58",
+        "versionCode": "59",
+        "versionName": "1.4.59",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -9777,13 +9777,13 @@
         "name": "Ikiru",
         "packageName": "eu.kanade.tachiyomi.extension.id.mangatale",
         "resources": {
-          "apkUrl": "https://github.com/extsup/extensions/releases/download/3af2b80/tachiyomi-id.mangatale-v1.4.55.apk",
+          "apkUrl": "https://github.com/extsup/extensions/releases/download/33db3c9/tachiyomi-id.mangatale-v1.4.56.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@ori/icon/eu.kanade.tachiyomi.extension.id.mangatale.png",
-          "jarUrl": "https://github.com/extsup/extensions/releases/download/3af2b80/tachiyomi-id.mangatale-v1.4.55.jar"
+          "jarUrl": "https://github.com/extsup/extensions/releases/download/33db3c9/tachiyomi-id.mangatale-v1.4.56.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "55",
-        "versionName": "1.4.55",
+        "versionCode": "56",
+        "versionName": "1.4.56",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -9987,13 +9987,13 @@
         "name": "Natsu",
         "packageName": "eu.kanade.tachiyomi.extension.id.natsu",
         "resources": {
-          "apkUrl": "https://github.com/extsup/extensions/releases/download/3af2b80/tachiyomi-id.natsu-v1.4.39.apk",
+          "apkUrl": "https://github.com/extsup/extensions/releases/download/33db3c9/tachiyomi-id.natsu-v1.4.40.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@ori/icon/eu.kanade.tachiyomi.extension.id.natsu.png",
-          "jarUrl": "https://github.com/extsup/extensions/releases/download/3af2b80/tachiyomi-id.natsu-v1.4.39.jar"
+          "jarUrl": "https://github.com/extsup/extensions/releases/download/33db3c9/tachiyomi-id.natsu-v1.4.40.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "39",
-        "versionName": "1.4.39",
+        "versionCode": "40",
+        "versionName": "1.4.40",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {

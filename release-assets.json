@@ -4351,12 +4351,12 @@
   },
   "eu.kanade.tachiyomi.extension.id.kiryuu": {
     "apk": {
-      "name": "tachiyomi-id.kiryuu-v1.4.58.apk",
-      "sha256": "ae3833d5756d39158b9ddb7e334e49943a0c4f948a19cf9e01f9a7ae19d725c1"
+      "name": "tachiyomi-id.kiryuu-v1.4.59.apk",
+      "sha256": "d697172673004327f6c77b4a14543e9462327b6d76ccfd91ababebb667f19276"
     },
     "jar": {
-      "name": "tachiyomi-id.kiryuu-v1.4.58.jar",
-      "sha256": "08dba822c11725eddb87264e4d9a9ebd66f3b00a52cf48fd86b19e0e0feae34b"
+      "name": "tachiyomi-id.kiryuu-v1.4.59.jar",
+      "sha256": "c937b3beed118607a01ecd021acef7c2930a359c61e0548f7c1d0d765220814f"
     }
   },
   "eu.kanade.tachiyomi.extension.id.klikmanga": {
@@ -4631,12 +4631,12 @@
   },
   "eu.kanade.tachiyomi.extension.id.mangatale": {
     "apk": {
-      "name": "tachiyomi-id.mangatale-v1.4.55.apk",
-      "sha256": "e22cd4ec0c92b3f39549d8c12c97ac914acf2aecd39129204421e167fd1582a6"
+      "name": "tachiyomi-id.mangatale-v1.4.56.apk",
+      "sha256": "4a0fe41687f2debf4146140e56b3f1735b57b99e6cd9df1f5807c21f80831404"
     },
     "jar": {
-      "name": "tachiyomi-id.mangatale-v1.4.55.jar",
-      "sha256": "b63165eac1d1e734a87d014245720b72dd37126a179ef801ecbe2f4719f3dc27"
+      "name": "tachiyomi-id.mangatale-v1.4.56.jar",
+      "sha256": "67df9c41f935a0333e32886c385458d5ad5f8b497d717485908f257ba030462f"
     }
   },
   "eu.kanade.tachiyomi.extension.id.manhwadesu": {
@@ -4731,12 +4731,12 @@
   },
   "eu.kanade.tachiyomi.extension.id.natsu": {
     "apk": {
-      "name": "tachiyomi-id.natsu-v1.4.39.apk",
-      "sha256": "fcb70ee7c7bbe95d37ab6df3470a354ca811e3715e355d49b22a339479ef00fa"
+      "name": "tachiyomi-id.natsu-v1.4.40.apk",
+      "sha256": "102356deb5449b6c8abe9dc10e6048002ad04d1e4ccb8b436b22b9a7e7b4a998"
     },
     "jar": {
-      "name": "tachiyomi-id.natsu-v1.4.39.jar",
-      "sha256": "65705877e5c07fdac85fb672a5dcfa004b0026461699f339abec6de912a7f2f1"
+      "name": "tachiyomi-id.natsu-v1.4.40.jar",
+      "sha256": "eec9b5ae5ab1c2299d357abf3f2d5e9d520bbba4d4a79d378166e66386605c8e"
     }
   },
   "eu.kanade.tachiyomi.extension.id.ngamenkomik": {
