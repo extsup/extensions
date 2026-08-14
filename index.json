@@ -10509,6 +10509,27 @@
         ]
       },
       {
+        "name": "Voratoon",
+        "packageName": "eu.kanade.tachiyomi.extension.id.voratoon",
+        "resources": {
+          "apkUrl": "https://github.com/extsup/extensions/releases/download/8b2fcf2/tachiyomi-id.voratoon-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@ori/icon/eu.kanade.tachiyomi.extension.id.voratoon.png",
+          "jarUrl": "https://github.com/extsup/extensions/releases/download/8b2fcf2/tachiyomi-id.voratoon-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "4940199911644527673",
+            "name": "Voratoon",
+            "language": "id",
+            "homeUrl": "https://v1.voratoon.com"
+          }
+        ]
+      },
+      {
         "name": "West Manga",
         "packageName": "eu.kanade.tachiyomi.extension.id.westmanga",
         "resources": {

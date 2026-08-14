@@ -4979,6 +4979,16 @@
       "sha256": "02171b7765683db2d4a48deb072cbe44dfa3309cdc23f18b37c90c3786543d0f"
     }
   },
+  "eu.kanade.tachiyomi.extension.id.voratoon": {
+    "apk": {
+      "name": "tachiyomi-id.voratoon-v1.6.1.apk",
+      "sha256": "b4e1d4650bc9eb812c3206fca9fdaf495b0e1858540a9acf30634b75230050e9"
+    },
+    "jar": {
+      "name": "tachiyomi-id.voratoon-v1.6.1.jar",
+      "sha256": "e8ae680b0af31a8e1b82be4ef068f76c9f48d8c59265cd96abffaad230e85bb3"
+    }
+  },
   "eu.kanade.tachiyomi.extension.id.westmanga": {
     "apk": {
       "name": "tachiyomi-id.westmanga-v1.4.44.apk",
