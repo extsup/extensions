@@ -4982,11 +4982,11 @@
   "eu.kanade.tachiyomi.extension.id.voratoon": {
     "apk": {
       "name": "tachiyomi-id.voratoon-v1.6.1.apk",
-      "sha256": "b4e1d4650bc9eb812c3206fca9fdaf495b0e1858540a9acf30634b75230050e9"
+      "sha256": "a3172eaf6a19584d704dd1e17bfa102413a1545f82de3690c2a2b02595b1b47e"
     },
     "jar": {
       "name": "tachiyomi-id.voratoon-v1.6.1.jar",
-      "sha256": "e8ae680b0af31a8e1b82be4ef068f76c9f48d8c59265cd96abffaad230e85bb3"
+      "sha256": "32ba007087ebf997139274182def9dd927dda1ea5050dceda2ff65a72191aaf3"
     }
   },
   "eu.kanade.tachiyomi.extension.id.westmanga": {
