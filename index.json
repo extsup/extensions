@@ -10533,13 +10533,13 @@
         "name": "Wurmz",
         "packageName": "eu.kanade.tachiyomi.extension.id.wurmz",
         "resources": {
-          "apkUrl": "https://github.com/extsup/extensions/releases/download/463410a/tachiyomi-id.wurmz-v1.4.4.apk",
+          "apkUrl": "https://github.com/extsup/extensions/releases/download/40545aa/tachiyomi-id.wurmz-v1.4.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@ori/icon/eu.kanade.tachiyomi.extension.id.wurmz.png",
-          "jarUrl": "https://github.com/extsup/extensions/releases/download/463410a/tachiyomi-id.wurmz-v1.4.4.jar"
+          "jarUrl": "https://github.com/extsup/extensions/releases/download/40545aa/tachiyomi-id.wurmz-v1.4.2.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "4",
-        "versionName": "1.4.4",
+        "versionCode": "2",
+        "versionName": "1.4.2",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
