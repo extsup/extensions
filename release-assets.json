@@ -4991,12 +4991,12 @@
   },
   "eu.kanade.tachiyomi.extension.id.wurmz": {
     "apk": {
-      "name": "tachiyomi-id.wurmz-v1.4.2.apk",
-      "sha256": "ebba48d75445d693758fd3dc18632c15d6833a50effc886b86a70bf12ed2ef69"
+      "name": "tachiyomi-id.wurmz-v1.4.1.apk",
+      "sha256": "8e6b49aaf3c12dfe35e0e4c8c5702d8a457d943eca7246e6343d9450bac67d93"
     },
     "jar": {
-      "name": "tachiyomi-id.wurmz-v1.4.2.jar",
-      "sha256": "5003cbb59e92052caa09fb5fb0bf3b9df23b2d73156ccb84d815da56f64ecce2"
+      "name": "tachiyomi-id.wurmz-v1.4.1.jar",
+      "sha256": "1c3c03f5ba95854c0f34ee1c7a9d5128d390e7cc8eba09f4bced1da2187e26c5"
     }
   },
   "eu.kanade.tachiyomi.extension.id.yubikiri": {
