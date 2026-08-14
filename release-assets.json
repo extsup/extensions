@@ -11,12 +11,12 @@
   },
   "eu.kanade.tachiyomi.extension.id.kiryuubeta": {
     "apk": {
-      "name": "tachiyomi-id.kiryuubeta-v1.4.5.apk",
-      "sha256": "1ba8665e2a2a5c7d47095ace854e01938251d4a7e6063ee61de2aba0ae74c1fb"
+      "name": "tachiyomi-id.kiryuubeta-v1.4.6.apk",
+      "sha256": "df5f6b177db21b9304693562b07b5eca64aaecb26e4b2a0d7f8d04aee2280a93"
     },
     "jar": {
-      "name": "tachiyomi-id.kiryuubeta-v1.4.5.jar",
-      "sha256": "36a5e0f54aefac4f28f627353e5aa30292d3250835ccd2b7a9d5aa6efa9f4b32"
+      "name": "tachiyomi-id.kiryuubeta-v1.4.6.jar",
+      "sha256": "5ca90c3c8b4b8603c61ece084ca675204e234b2d4a9de35e4fbcfb4a0a5cdd0c"
     }
   },
   "eu.kanade.tachiyomi.extension.id.komikavbeta": {
