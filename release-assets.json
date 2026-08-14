@@ -4311,12 +4311,12 @@
   },
   "eu.kanade.tachiyomi.extension.id.hwago": {
     "apk": {
-      "name": "tachiyomi-id.hwago-v1.6.3.apk",
-      "sha256": "8ff7d7d180e8276259ae076baa734d77563c2b0e37c6f7d765b68d4d77e46f04"
+      "name": "tachiyomi-id.hwago-v1.6.4.apk",
+      "sha256": "1e9b2d3a23541794f690126a1e69b2c180bbc364a025e9bac8782e411eca08a3"
     },
     "jar": {
-      "name": "tachiyomi-id.hwago-v1.6.3.jar",
-      "sha256": "5e60df9ff68a5273efbac365cbd0616c19856126c4e49c908850f96753a27ba8"
+      "name": "tachiyomi-id.hwago-v1.6.4.jar",
+      "sha256": "cb0296e6a1576f9c10e4660deb4940a4da6398a3dda353cb1124a2216f83ba4f"
     }
   },
   "eu.kanade.tachiyomi.extension.id.inazumanga": {
@@ -4981,12 +4981,12 @@
   },
   "eu.kanade.tachiyomi.extension.id.voratoon": {
     "apk": {
-      "name": "tachiyomi-id.voratoon-v1.6.1.apk",
-      "sha256": "ec898d3f1ff5ecaaead0f884ee8a254ca2c608f082624ef1382aa0ef695b39ae"
+      "name": "tachiyomi-id.voratoon-v1.6.2.apk",
+      "sha256": "dd1d298723933405dbb7d4d8f4c57eff484ee362dbe155eaa80718c27f8263e0"
     },
     "jar": {
-      "name": "tachiyomi-id.voratoon-v1.6.1.jar",
-      "sha256": "fdef6feaa41dc72a09c9edca2b7ee47f4a7b7a27d7d872281750ab1377ef338c"
+      "name": "tachiyomi-id.voratoon-v1.6.2.jar",
+      "sha256": "d7ebc818e165ed50f8542cdc0389896ae52d50ad64d49994520141a8cd82f1b2"
     }
   },
   "eu.kanade.tachiyomi.extension.id.westmanga": {

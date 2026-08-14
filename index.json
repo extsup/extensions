@@ -9105,13 +9105,13 @@
         "name": "Hwago",
         "packageName": "eu.kanade.tachiyomi.extension.id.hwago",
         "resources": {
-          "apkUrl": "https://github.com/extsup/extensions/releases/download/3542c82-1/tachiyomi-id.hwago-v1.6.3.apk",
+          "apkUrl": "https://github.com/extsup/extensions/releases/download/0afd42c/tachiyomi-id.hwago-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@ori/icon/eu.kanade.tachiyomi.extension.id.hwago.png",
-          "jarUrl": "https://github.com/extsup/extensions/releases/download/3542c82-1/tachiyomi-id.hwago-v1.6.3.jar"
+          "jarUrl": "https://github.com/extsup/extensions/releases/download/0afd42c/tachiyomi-id.hwago-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "3",
-        "versionName": "1.6.3",
+        "versionCode": "4",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -10512,13 +10512,13 @@
         "name": "Voratoon",
         "packageName": "eu.kanade.tachiyomi.extension.id.voratoon",
         "resources": {
-          "apkUrl": "https://github.com/extsup/extensions/releases/download/d3339a4/tachiyomi-id.voratoon-v1.6.1.apk",
+          "apkUrl": "https://github.com/extsup/extensions/releases/download/0afd42c/tachiyomi-id.voratoon-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@ori/icon/eu.kanade.tachiyomi.extension.id.voratoon.png",
-          "jarUrl": "https://github.com/extsup/extensions/releases/download/d3339a4/tachiyomi-id.voratoon-v1.6.1.jar"
+          "jarUrl": "https://github.com/extsup/extensions/releases/download/0afd42c/tachiyomi-id.voratoon-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "1",
-        "versionName": "1.6.1",
+        "versionCode": "2",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
