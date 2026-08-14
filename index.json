@@ -9189,9 +9189,9 @@
         "name": "Kiryuu",
         "packageName": "eu.kanade.tachiyomi.extension.id.kiryuu",
         "resources": {
-          "apkUrl": "https://github.com/extsup/extensions/releases/download/3542c82-1/tachiyomi-id.kiryuu-v1.4.56.apk",
+          "apkUrl": "https://github.com/extsup/extensions/releases/download/e06f039/tachiyomi-id.kiryuu-v1.4.56.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@ori/icon/eu.kanade.tachiyomi.extension.id.kiryuu.png",
-          "jarUrl": "https://github.com/extsup/extensions/releases/download/3542c82-1/tachiyomi-id.kiryuu-v1.4.56.jar"
+          "jarUrl": "https://github.com/extsup/extensions/releases/download/e06f039/tachiyomi-id.kiryuu-v1.4.56.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "56",
@@ -9777,9 +9777,9 @@
         "name": "Ikiru",
         "packageName": "eu.kanade.tachiyomi.extension.id.mangatale",
         "resources": {
-          "apkUrl": "https://github.com/extsup/extensions/releases/download/3542c82-1/tachiyomi-id.mangatale-v1.4.53.apk",
+          "apkUrl": "https://github.com/extsup/extensions/releases/download/e06f039/tachiyomi-id.mangatale-v1.4.53.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@ori/icon/eu.kanade.tachiyomi.extension.id.mangatale.png",
-          "jarUrl": "https://github.com/extsup/extensions/releases/download/3542c82-1/tachiyomi-id.mangatale-v1.4.53.jar"
+          "jarUrl": "https://github.com/extsup/extensions/releases/download/e06f039/tachiyomi-id.mangatale-v1.4.53.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "53",
@@ -9987,9 +9987,9 @@
         "name": "Natsu",
         "packageName": "eu.kanade.tachiyomi.extension.id.natsu",
         "resources": {
-          "apkUrl": "https://github.com/extsup/extensions/releases/download/3542c82-1/tachiyomi-id.natsu-v1.4.37.apk",
+          "apkUrl": "https://github.com/extsup/extensions/releases/download/e06f039/tachiyomi-id.natsu-v1.4.37.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@ori/icon/eu.kanade.tachiyomi.extension.id.natsu.png",
-          "jarUrl": "https://github.com/extsup/extensions/releases/download/3542c82-1/tachiyomi-id.natsu-v1.4.37.jar"
+          "jarUrl": "https://github.com/extsup/extensions/releases/download/e06f039/tachiyomi-id.natsu-v1.4.37.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "37",

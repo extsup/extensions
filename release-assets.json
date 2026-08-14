@@ -4352,11 +4352,11 @@
   "eu.kanade.tachiyomi.extension.id.kiryuu": {
     "apk": {
       "name": "tachiyomi-id.kiryuu-v1.4.56.apk",
-      "sha256": "34f036b7d4b304fe52b314a83e215d14bb39e0c872fb9c332cfa0eba242358bd"
+      "sha256": "5b409878bef44090faefb859b844bf6bf4010f4dc579215827bf22256492cfe9"
     },
     "jar": {
       "name": "tachiyomi-id.kiryuu-v1.4.56.jar",
-      "sha256": "66296cc7b4cc8b8f269aeef7df10ad565c7e21ca967012ebd57b4580e6e8e339"
+      "sha256": "f8ee19e1b282ad9fef466310a8b0da3967e81fb3f7e0ef40f937fed436cb66ea"
     }
   },
   "eu.kanade.tachiyomi.extension.id.klikmanga": {
@@ -4632,11 +4632,11 @@
   "eu.kanade.tachiyomi.extension.id.mangatale": {
     "apk": {
       "name": "tachiyomi-id.mangatale-v1.4.53.apk",
-      "sha256": "743483f3cfd6aef17cc47f09a934bfbfa50129ff483ca4d8acbe6df875acb640"
+      "sha256": "e0de4876a63770df0e370566310eeee6e0c6332ee29114f988408e5212b7a04f"
     },
     "jar": {
       "name": "tachiyomi-id.mangatale-v1.4.53.jar",
-      "sha256": "a2f8d4d835c4caa0928c6b38b34548b710fc0708b4acf7d97672462024b82017"
+      "sha256": "55a23e0cc50b91a5ceaadd900cab40f5351caf301427780419fd4df7857fbc83"
     }
   },
   "eu.kanade.tachiyomi.extension.id.manhwadesu": {
@@ -4732,11 +4732,11 @@
   "eu.kanade.tachiyomi.extension.id.natsu": {
     "apk": {
       "name": "tachiyomi-id.natsu-v1.4.37.apk",
-      "sha256": "a4c7c63761844bdd1dcf54159abceada204c53c571de691949623696efd09c40"
+      "sha256": "f4fc88d29642fe249da90773a9698ee121370b15ae20e534f68b43500de4efd7"
     },
     "jar": {
       "name": "tachiyomi-id.natsu-v1.4.37.jar",
-      "sha256": "8ddab68bce1643b73178c7cb2b78b025122fac53ded003f7196a225c6d05b147"
+      "sha256": "2d88718584dd5e9322cd02de59876ce905749a437e0cf88e41042e50e7e5f894"
     }
   },
   "eu.kanade.tachiyomi.extension.id.ngamenkomik": {
