@@ -11,13 +11,13 @@
         "name": "Ikiru Beta",
         "packageName": "eu.kanade.tachiyomi.extension.id.ikirubeta",
         "resources": {
-          "apkUrl": "https://github.com/extsup/extensions/releases/download/68fa5be/tachiyomi-id.ikirubeta-v1.4.5.apk",
+          "apkUrl": "https://github.com/extsup/extensions/releases/download/3831956/tachiyomi-id.ikirubeta-v1.4.6.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@repo/icon/eu.kanade.tachiyomi.extension.id.ikirubeta.png",
-          "jarUrl": "https://github.com/extsup/extensions/releases/download/68fa5be/tachiyomi-id.ikirubeta-v1.4.5.jar"
+          "jarUrl": "https://github.com/extsup/extensions/releases/download/3831956/tachiyomi-id.ikirubeta-v1.4.6.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "5",
-        "versionName": "1.4.5",
+        "versionCode": "6",
+        "versionName": "1.4.6",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -32,13 +32,13 @@
         "name": "Kiryuu Beta",
         "packageName": "eu.kanade.tachiyomi.extension.id.kiryuubeta",
         "resources": {
-          "apkUrl": "https://github.com/extsup/extensions/releases/download/1fc6ff8/tachiyomi-id.kiryuubeta-v1.4.7.apk",
+          "apkUrl": "https://github.com/extsup/extensions/releases/download/3831956/tachiyomi-id.kiryuubeta-v1.4.8.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@repo/icon/eu.kanade.tachiyomi.extension.id.kiryuubeta.png",
-          "jarUrl": "https://github.com/extsup/extensions/releases/download/1fc6ff8/tachiyomi-id.kiryuubeta-v1.4.7.jar"
+          "jarUrl": "https://github.com/extsup/extensions/releases/download/3831956/tachiyomi-id.kiryuubeta-v1.4.8.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "7",
-        "versionName": "1.4.7",
+        "versionCode": "8",
+        "versionName": "1.4.8",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
