@@ -10512,9 +10512,9 @@
         "name": "Voratoon",
         "packageName": "eu.kanade.tachiyomi.extension.id.voratoon",
         "resources": {
-          "apkUrl": "https://github.com/extsup/extensions/releases/download/3a8e12f/tachiyomi-id.voratoon-v1.6.1.apk",
+          "apkUrl": "https://github.com/extsup/extensions/releases/download/ed352a5/tachiyomi-id.voratoon-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@ori/icon/eu.kanade.tachiyomi.extension.id.voratoon.png",
-          "jarUrl": "https://github.com/extsup/extensions/releases/download/3a8e12f/tachiyomi-id.voratoon-v1.6.1.jar"
+          "jarUrl": "https://github.com/extsup/extensions/releases/download/ed352a5/tachiyomi-id.voratoon-v1.6.1.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "1",
