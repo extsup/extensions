@@ -1,0 +1,72 @@
+{
+  "eu.kanade.tachiyomi.extension.id.ikirubeta": {
+    "apk": {
+      "name": "tachiyomi-id.ikirubeta-v1.4.5.apk",
+      "sha256": "a9f20f133ba723483b0da450bf3f78b883e137674ded2fcd1c67881d43a221e0"
+    },
+    "jar": {
+      "name": "tachiyomi-id.ikirubeta-v1.4.5.jar",
+      "sha256": "a54941ba17878fd4bdf6363761e6810831008e8d5fec5f137a268707546cf86f"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.id.kiryuubeta": {
+    "apk": {
+      "name": "tachiyomi-id.kiryuubeta-v1.4.5.apk",
+      "sha256": "f94ad17d361c1becc680dfecd2e007c1100ad3fe66ee7fc3dd39fadc5f626313"
+    },
+    "jar": {
+      "name": "tachiyomi-id.kiryuubeta-v1.4.5.jar",
+      "sha256": "d1b3c14810591441573ed03de4119385cd3ab4743fc4334bdffac2ee6a45118a"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.id.komikavbeta": {
+    "apk": {
+      "name": "tachiyomi-id.komikavbeta-v1.4.1.apk",
+      "sha256": "b47d9ed8a795f327af18c47404785f1aef1dd3a8ecbfc8644452a458e28c8962"
+    },
+    "jar": {
+      "name": "tachiyomi-id.komikavbeta-v1.4.1.jar",
+      "sha256": "d289da4666daa30047156c111fa74a9d9d66453aaf97fb73b7339df9b9004dc5"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.id.komikcastbeta": {
+    "apk": {
+      "name": "tachiyomi-id.komikcastbeta-v1.4.1.apk",
+      "sha256": "28ac666c300a91f46eb7642999bd09b066d28efa2b20eb5a557186a5a52290b9"
+    },
+    "jar": {
+      "name": "tachiyomi-id.komikcastbeta-v1.4.1.jar",
+      "sha256": "a8484aafb9fc03bdd776e79fcfcc06927f9d2bdf4f2224befefcce39020b85b4"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.id.mgkomikwebbeta": {
+    "apk": {
+      "name": "tachiyomi-id.mgkomikwebbeta-v1.4.1.apk",
+      "sha256": "a34e65a1917548efbed3495db6922d7d9026a3837ef6111b3fa1c364cc72982c"
+    },
+    "jar": {
+      "name": "tachiyomi-id.mgkomikwebbeta-v1.4.1.jar",
+      "sha256": "4f6573192fea5b88a9e13df7d12828b0d313716315d9cfa5f7c36ac83d527a1e"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.id.shinigamibeta": {
+    "apk": {
+      "name": "tachiyomi-id.shinigamibeta-v1.4.1.apk",
+      "sha256": "bcac4690142e244e32574dd5686bb40fae31c045c3aa83d87629543ac072a27a"
+    },
+    "jar": {
+      "name": "tachiyomi-id.shinigamibeta-v1.4.1.jar",
+      "sha256": "10747a9d0d811684c3a67f096272dccc61f0069010efe08e643cc46b84512cce"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.id.soulscansbeta": {
+    "apk": {
+      "name": "tachiyomi-id.soulscansbeta-v1.4.1.apk",
+      "sha256": "8eb4a5fb992a01212e307987a1f5538682587e90c0ee874a4839d0e22e022bfb"
+    },
+    "jar": {
+      "name": "tachiyomi-id.soulscansbeta-v1.4.1.jar",
+      "sha256": "9509ab1a4dbcd29dcdbcb63b720d1fdce6193c363d8d324717c8e3e9367a3bec"
+    }
+  }
+}
