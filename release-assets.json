@@ -4321,12 +4321,12 @@
   },
   "eu.kanade.tachiyomi.extension.id.inazumanga": {
     "apk": {
-      "name": "tachiyomi-id.inazumanga-v1.4.43.apk",
-      "sha256": "164ffbb93e1fdf4579ac3c69d179c6fe2eaa60f619b1f37e2ba947f2e53c2399"
+      "name": "tachiyomi-id.inazumanga-v1.4.44.apk",
+      "sha256": "a5ca758b2fb0b85126452e523a7a71ad38f4ba4a28b4719e1cc3fa7f4dd53c73"
     },
     "jar": {
-      "name": "tachiyomi-id.inazumanga-v1.4.43.jar",
-      "sha256": "6ab78a25f7aab1d1ffb8bb924c144b203b3b48307962205ee0c64e2a33307ebf"
+      "name": "tachiyomi-id.inazumanga-v1.4.44.jar",
+      "sha256": "778b8663a89ae5315c468ae879bde374957ce4964ffa46e3284f573d48c1590e"
     }
   },
   "eu.kanade.tachiyomi.extension.id.izanamiscans": {
