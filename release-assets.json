@@ -4312,11 +4312,11 @@
   "eu.kanade.tachiyomi.extension.id.hwago": {
     "apk": {
       "name": "tachiyomi-id.hwago-v1.6.4.apk",
-      "sha256": "1e9b2d3a23541794f690126a1e69b2c180bbc364a025e9bac8782e411eca08a3"
+      "sha256": "0242a42edf60a5c90fda75ab052fa2cbad5a2fb12cd6178dbb9bab569a817edd"
     },
     "jar": {
       "name": "tachiyomi-id.hwago-v1.6.4.jar",
-      "sha256": "cb0296e6a1576f9c10e4660deb4940a4da6398a3dda353cb1124a2216f83ba4f"
+      "sha256": "7d7903b72b4de80ecb5407fa9522f01865917cf7135953099ad07c634a5a1945"
     }
   },
   "eu.kanade.tachiyomi.extension.id.inazumanga": {

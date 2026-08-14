@@ -9105,9 +9105,9 @@
         "name": "Hwago",
         "packageName": "eu.kanade.tachiyomi.extension.id.hwago",
         "resources": {
-          "apkUrl": "https://github.com/extsup/extensions/releases/download/0afd42c/tachiyomi-id.hwago-v1.6.4.apk",
+          "apkUrl": "https://github.com/extsup/extensions/releases/download/86c1d12/tachiyomi-id.hwago-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@ori/icon/eu.kanade.tachiyomi.extension.id.hwago.png",
-          "jarUrl": "https://github.com/extsup/extensions/releases/download/0afd42c/tachiyomi-id.hwago-v1.6.4.jar"
+          "jarUrl": "https://github.com/extsup/extensions/releases/download/86c1d12/tachiyomi-id.hwago-v1.6.4.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "4",
