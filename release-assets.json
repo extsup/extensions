@@ -1,22 +1,22 @@
 {
   "eu.kanade.tachiyomi.extension.id.ikirubeta": {
     "apk": {
-      "name": "tachiyomi-id.ikirubeta-v1.4.6.apk",
-      "sha256": "80eab7314f289e494e499a2aee8df150c9b6bce7025f80f62ae293bf71342e8e"
+      "name": "tachiyomi-id.ikirubeta-v1.4.7.apk",
+      "sha256": "212533ed55c04b69cc88e5d6f12909bb4cafb04361f434a7f04fe14996340569"
     },
     "jar": {
-      "name": "tachiyomi-id.ikirubeta-v1.4.6.jar",
-      "sha256": "be5f74b8dc9691aebe43bd2dec95f6c8aca3a4151ef2a63d2d30d29830483518"
+      "name": "tachiyomi-id.ikirubeta-v1.4.7.jar",
+      "sha256": "f9294f32e670c5c57c92c2700e8e3d3e90a5a4d97f33ddfd24310b1b37fcfb41"
     }
   },
   "eu.kanade.tachiyomi.extension.id.kiryuubeta": {
     "apk": {
-      "name": "tachiyomi-id.kiryuubeta-v1.4.9.apk",
-      "sha256": "e7d536214dafaf369243c62969dd92fd0b7a625830f5282fb7bcf44d60f3378d"
+      "name": "tachiyomi-id.kiryuubeta-v1.4.10.apk",
+      "sha256": "1b09335a4aa1d21d1753ba349c078d2d0061576841cfcc33c3f69c9ad733b4fb"
     },
     "jar": {
-      "name": "tachiyomi-id.kiryuubeta-v1.4.9.jar",
-      "sha256": "e37ec0c45289d0bd4acb8d0e5867eca64346f8c627b6260bf56bc1697ad84562"
+      "name": "tachiyomi-id.kiryuubeta-v1.4.10.jar",
+      "sha256": "d8cffa0c3f89908a81aaffa68d967d5497443ed85be97ae2c67fb072a0b79440"
     }
   },
   "eu.kanade.tachiyomi.extension.id.komikavbeta": {
