@@ -95,9 +95,9 @@
         "name": "Shinigami Beta",
         "packageName": "eu.kanade.tachiyomi.extension.id.shinigamibeta",
         "resources": {
-          "apkUrl": "https://github.com/extsup/extensions/releases/download/d6c6d1b/tachiyomi-id.shinigamibeta-v1.4.1.apk",
+          "apkUrl": "https://github.com/extsup/extensions/releases/download/747e5e6/tachiyomi-id.shinigamibeta-v1.4.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@repo/icon/eu.kanade.tachiyomi.extension.id.shinigamibeta.png",
-          "jarUrl": "https://github.com/extsup/extensions/releases/download/d6c6d1b/tachiyomi-id.shinigamibeta-v1.4.1.jar"
+          "jarUrl": "https://github.com/extsup/extensions/releases/download/747e5e6/tachiyomi-id.shinigamibeta-v1.4.1.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "1",
