@@ -29,16 +29,6 @@
       "sha256": "d289da4666daa30047156c111fa74a9d9d66453aaf97fb73b7339df9b9004dc5"
     }
   },
-  "eu.kanade.tachiyomi.extension.id.komikcastbeta": {
-    "apk": {
-      "name": "tachiyomi-id.komikcastbeta-v1.4.1.apk",
-      "sha256": "28ac666c300a91f46eb7642999bd09b066d28efa2b20eb5a557186a5a52290b9"
-    },
-    "jar": {
-      "name": "tachiyomi-id.komikcastbeta-v1.4.1.jar",
-      "sha256": "a8484aafb9fc03bdd776e79fcfcc06927f9d2bdf4f2224befefcce39020b85b4"
-    }
-  },
   "eu.kanade.tachiyomi.extension.id.mgkomikwebbeta": {
     "apk": {
       "name": "tachiyomi-id.mgkomikwebbeta-v1.4.1.apk",
@@ -67,6 +57,16 @@
     "jar": {
       "name": "tachiyomi-id.soulscansbeta-v1.4.1.jar",
       "sha256": "9509ab1a4dbcd29dcdbcb63b720d1fdce6193c363d8d324717c8e3e9367a3bec"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.id.voratoonbeta": {
+    "apk": {
+      "name": "tachiyomi-id.voratoonbeta-v1.4.1.apk",
+      "sha256": "78567619a09f54bff89c66b05edf8ddbaa2856864cc0aeb6ef6c0721b0876caa"
+    },
+    "jar": {
+      "name": "tachiyomi-id.voratoonbeta-v1.4.1.jar",
+      "sha256": "d76f91e353d0632ca5e6949a2b05c703eb550ceeac253354f72a25d6ce536cb2"
     }
   }
 }

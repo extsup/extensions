@@ -71,27 +71,6 @@
         ]
       },
       {
-        "name": "Komik Cast Beta",
-        "packageName": "eu.kanade.tachiyomi.extension.id.komikcastbeta",
-        "resources": {
-          "apkUrl": "https://github.com/extsup/extensions/releases/download/68fa5be/tachiyomi-id.komikcastbeta-v1.4.1.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@repo/icon/eu.kanade.tachiyomi.extension.id.komikcastbeta.png",
-          "jarUrl": "https://github.com/extsup/extensions/releases/download/68fa5be/tachiyomi-id.komikcastbeta-v1.4.1.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "1",
-        "versionName": "1.4.1",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "3981010475323362893",
-            "name": "Komik Cast Beta",
-            "language": "id",
-            "homeUrl": "https://v3.komikcast.fit"
-          }
-        ]
-      },
-      {
         "name": "MGKomikWeb Beta",
         "packageName": "eu.kanade.tachiyomi.extension.id.mgkomikwebbeta",
         "resources": {
@@ -151,6 +130,27 @@
             "name": "Soul Scans Beta",
             "language": "id",
             "homeUrl": "https://v1.soulscans.org"
+          }
+        ]
+      },
+      {
+        "name": "Voratoon Beta",
+        "packageName": "eu.kanade.tachiyomi.extension.id.voratoonbeta",
+        "resources": {
+          "apkUrl": "https://github.com/extsup/extensions/releases/download/94ed24a/tachiyomi-id.voratoonbeta-v1.4.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@repo/icon/eu.kanade.tachiyomi.extension.id.voratoonbeta.png",
+          "jarUrl": "https://github.com/extsup/extensions/releases/download/94ed24a/tachiyomi-id.voratoonbeta-v1.4.1.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "6602572391804291731",
+            "name": "Voratoon Beta",
+            "language": "id",
+            "homeUrl": "https://v1.voratoon.com"
           }
         ]
       }
