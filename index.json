@@ -137,9 +137,9 @@
         "name": "Voratoon Beta",
         "packageName": "eu.kanade.tachiyomi.extension.id.voratoonbeta",
         "resources": {
-          "apkUrl": "https://github.com/extsup/extensions/releases/download/2a14a35/tachiyomi-id.voratoonbeta-v1.4.1.apk",
+          "apkUrl": "https://github.com/extsup/extensions/releases/download/40aefdc/tachiyomi-id.voratoonbeta-v1.4.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@repo/icon/eu.kanade.tachiyomi.extension.id.voratoonbeta.png",
-          "jarUrl": "https://github.com/extsup/extensions/releases/download/2a14a35/tachiyomi-id.voratoonbeta-v1.4.1.jar"
+          "jarUrl": "https://github.com/extsup/extensions/releases/download/40aefdc/tachiyomi-id.voratoonbeta-v1.4.1.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "1",

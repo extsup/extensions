@@ -62,11 +62,11 @@
   "eu.kanade.tachiyomi.extension.id.voratoonbeta": {
     "apk": {
       "name": "tachiyomi-id.voratoonbeta-v1.4.1.apk",
-      "sha256": "d593038876e9595b6e4a16fbea2a5287d8f567ff1eabecca9d88b4f383341c6b"
+      "sha256": "998fcb3ef41390ba70c17189ec6201bbea0fb4da95f2f8aa70f31ee1a1040603"
     },
     "jar": {
       "name": "tachiyomi-id.voratoonbeta-v1.4.1.jar",
-      "sha256": "23183a344513e37edbd7beb647d0d66f127c6880ae2d573aa3748497f5fe2cd7"
+      "sha256": "21c0120212714383c746896b9085d145a83d3db4f6ddf6c197e8fd34bd0840cc"
     }
   }
 }
