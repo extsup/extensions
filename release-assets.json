@@ -1,12 +1,12 @@
 {
   "eu.kanade.tachiyomi.extension.id.ikirubeta": {
     "apk": {
-      "name": "tachiyomi-id.ikirubeta-v1.4.9.apk",
-      "sha256": "e7ce74f98240c5568f8f2c364bd2493218450533a15ab5c6c8ea1c29b29c8f8e"
+      "name": "tachiyomi-id.ikirubeta-v1.4.2.apk",
+      "sha256": "ee86a13cebb8c6d0c20cbdd3a5248c0aef72808bd30365d151d62c39c0f623b7"
     },
     "jar": {
-      "name": "tachiyomi-id.ikirubeta-v1.4.9.jar",
-      "sha256": "ff3ffd3b88fff7e41cf92936fd68608ab2e4cf505f4b64f561ee9750662bb5fb"
+      "name": "tachiyomi-id.ikirubeta-v1.4.2.jar",
+      "sha256": "49eecfb9f7bb402a2f4a41b8f037338e0f212040a285f50e4e053bcba8e34e2c"
     }
   },
   "eu.kanade.tachiyomi.extension.id.kiryuubeta": {
