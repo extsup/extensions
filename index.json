@@ -32,13 +32,13 @@
         "name": "Kiryuu Beta",
         "packageName": "eu.kanade.tachiyomi.extension.id.kiryuubeta",
         "resources": {
-          "apkUrl": "https://github.com/extsup/extensions/releases/download/d1d4be2/tachiyomi-id.kiryuubeta-v1.4.12.apk",
+          "apkUrl": "https://github.com/extsup/extensions/releases/download/37ff5cb/tachiyomi-id.kiryuubeta-v1.4.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@repo/icon/eu.kanade.tachiyomi.extension.id.kiryuubeta.png",
-          "jarUrl": "https://github.com/extsup/extensions/releases/download/d1d4be2/tachiyomi-id.kiryuubeta-v1.4.12.jar"
+          "jarUrl": "https://github.com/extsup/extensions/releases/download/37ff5cb/tachiyomi-id.kiryuubeta-v1.4.5.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "12",
-        "versionName": "1.4.12",
+        "versionCode": "5",
+        "versionName": "1.4.5",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
