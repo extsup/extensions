@@ -4691,12 +4691,12 @@
   },
   "eu.kanade.tachiyomi.extension.id.mgkomik": {
     "apk": {
-      "name": "tachiyomi-id.mgkomik-v1.4.77.apk",
-      "sha256": "980fc5908df34ab24016f831aa4413517f0c37cfe4440d40d918db1e8223f9c5"
+      "name": "tachiyomi-id.mgkomik-v1.4.79.apk",
+      "sha256": "40319f65492ac9e6aa68528075a5f321c53fbf66ebc2cb43e271be21f2e57c57"
     },
     "jar": {
-      "name": "tachiyomi-id.mgkomik-v1.4.77.jar",
-      "sha256": "6c603103423d0ced74d4a8c364c85929f41517061cd81429c493a7881fbce856"
+      "name": "tachiyomi-id.mgkomik-v1.4.79.jar",
+      "sha256": "ae32bbd771e46bb57254837a5360443cea4cfbbba285a3465fb7bbbf7512e1b1"
     }
   },
   "eu.kanade.tachiyomi.extension.id.mihentai": {
