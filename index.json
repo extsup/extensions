@@ -9504,9 +9504,9 @@
         "name": "Komiku.com",
         "packageName": "eu.kanade.tachiyomi.extension.id.komikucom",
         "resources": {
-          "apkUrl": "https://github.com/extsup/extensions/releases/download/908a7e7/tachiyomi-id.komikucom-v1.6.1.apk",
+          "apkUrl": "https://github.com/extsup/extensions/releases/download/0810dd5/tachiyomi-id.komikucom-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@ori/icon/eu.kanade.tachiyomi.extension.id.komikucom.png",
-          "jarUrl": "https://github.com/extsup/extensions/releases/download/908a7e7/tachiyomi-id.komikucom-v1.6.1.jar"
+          "jarUrl": "https://github.com/extsup/extensions/releases/download/0810dd5/tachiyomi-id.komikucom-v1.6.1.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "1",
