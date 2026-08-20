@@ -4502,11 +4502,11 @@
   "eu.kanade.tachiyomi.extension.id.komikucom": {
     "apk": {
       "name": "tachiyomi-id.komikucom-v1.6.3.apk",
-      "sha256": "5265e7d9dc5a5a2e9824b84861d2df3578ea02d8aa37afe6e388925c69903624"
+      "sha256": "f8841cb1ae91a0b22e57a4c919058e780a6b2b9553fdac2191de39d26b7b1a2b"
     },
     "jar": {
       "name": "tachiyomi-id.komikucom-v1.6.3.jar",
-      "sha256": "db8636acba3544b00b1d056f514117dcd2556ca5bb6591f1d945fba93c35fc1a"
+      "sha256": "8859bf8c1ec7d501ca469aa7f68b9cc6ad595d2d5c60977edfd005d936818374"
     }
   },
   "eu.kanade.tachiyomi.extension.id.komikzoid": {
