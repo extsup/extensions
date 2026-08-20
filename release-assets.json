@@ -4501,12 +4501,12 @@
   },
   "eu.kanade.tachiyomi.extension.id.komikucom": {
     "apk": {
-      "name": "tachiyomi-id.komikucom-v1.6.3.apk",
-      "sha256": "f8841cb1ae91a0b22e57a4c919058e780a6b2b9553fdac2191de39d26b7b1a2b"
+      "name": "tachiyomi-id.komikucom-v1.6.4.apk",
+      "sha256": "b2b3de2d9a7eb6578374ed84be3ca5a2f84dbc011f9613b75758fdbed54baed3"
     },
     "jar": {
-      "name": "tachiyomi-id.komikucom-v1.6.3.jar",
-      "sha256": "8859bf8c1ec7d501ca469aa7f68b9cc6ad595d2d5c60977edfd005d936818374"
+      "name": "tachiyomi-id.komikucom-v1.6.4.jar",
+      "sha256": "0036c33dd13263000ac49d7ffee4bab0a920b681617654fcf3520119edd931f4"
     }
   },
   "eu.kanade.tachiyomi.extension.id.komikzoid": {
