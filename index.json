@@ -9903,13 +9903,13 @@
         "name": "MG Komik",
         "packageName": "eu.kanade.tachiyomi.extension.id.mgkomik",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@ori/apk/tachiyomi-id.mgkomik-v1.4.80.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@ori/apk/tachiyomi-id.mgkomik-v1.4.76.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@ori/icon/eu.kanade.tachiyomi.extension.id.mgkomik.png",
-          "jarUrl": "https://raw.githubusercontent.com/extsup/extensions/ori/jar/tachiyomi-id.mgkomik-v1.4.80.jar"
+          "jarUrl": "https://raw.githubusercontent.com/extsup/extensions/ori/jar/tachiyomi-id.mgkomik-v1.4.76.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "80",
-        "versionName": "1.4.80",
+        "versionCode": "76",
+        "versionName": "1.4.76",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
