@@ -4931,12 +4931,12 @@
   },
   "eu.kanade.tachiyomi.extension.id.softkomik": {
     "apk": {
-      "name": "tachiyomi-id.softkomik-v1.4.1.apk",
-      "sha256": "894ae172a3fcf668b176f9b0031cff16e9fb9c3e14183811fe9a330aa531cdd7"
+      "name": "tachiyomi-id.softkomik-v1.4.2.apk",
+      "sha256": "3a324cc49225ccede53abf7ecbb69501acde8b09cc9c690393312f8154e075c8"
     },
     "jar": {
-      "name": "tachiyomi-id.softkomik-v1.4.1.jar",
-      "sha256": "93226dc1d50c0bc0332dc6bee84c1b5f857ae621bc5f5543bbe2bca663e79448"
+      "name": "tachiyomi-id.softkomik-v1.4.2.jar",
+      "sha256": "8198ce4eb82c0072ece8fae25963de6c52aec2b44230d1486005c361a46d7c56"
     }
   },
   "eu.kanade.tachiyomi.extension.id.soulscans": {
