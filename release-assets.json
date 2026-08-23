@@ -4921,12 +4921,12 @@
   },
   "eu.kanade.tachiyomi.extension.id.siimanga": {
     "apk": {
-      "name": "tachiyomi-id.siimanga-v1.4.52.apk",
-      "sha256": "d30bc1cb1617de169213666bb1404614126bc800f34f2691d7f26f7651ba8988"
+      "name": "tachiyomi-id.siimanga-v1.4.53.apk",
+      "sha256": "71efbb1311425aa165084383b978f150734be25b2c6d18d51785ab6ec2938005"
     },
     "jar": {
-      "name": "tachiyomi-id.siimanga-v1.4.52.jar",
-      "sha256": "e345b07c0761aaafbb17bb67a80a81924864f07f82e495d9636ff5a41047ea33"
+      "name": "tachiyomi-id.siimanga-v1.4.53.jar",
+      "sha256": "4ef301d3434f57025cfda23a569674d8475bea787b2e366570a562ca5603d07f"
     }
   },
   "eu.kanade.tachiyomi.extension.id.softkomik": {

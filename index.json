@@ -10386,20 +10386,20 @@
         "name": "Siikomik",
         "packageName": "eu.kanade.tachiyomi.extension.id.siimanga",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@ori/apk/tachiyomi-id.siimanga-v1.4.52.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@ori/apk/tachiyomi-id.siimanga-v1.4.53.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@ori/icon/eu.kanade.tachiyomi.extension.id.siimanga.png",
-          "jarUrl": "https://raw.githubusercontent.com/extsup/extensions/ori/jar/tachiyomi-id.siimanga-v1.4.52.jar"
+          "jarUrl": "https://raw.githubusercontent.com/extsup/extensions/ori/jar/tachiyomi-id.siimanga-v1.4.53.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "52",
-        "versionName": "1.4.52",
+        "versionCode": "53",
+        "versionName": "1.4.53",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "4762501899936439936",
             "name": "Siikomik",
             "language": "id",
-            "homeUrl": "https://siikomik.net"
+            "homeUrl": "https://siikomik.id"
           }
         ]
       },
