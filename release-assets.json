@@ -4211,12 +4211,12 @@
   },
   "eu.kanade.tachiyomi.extension.id.cgbum": {
     "apk": {
-      "name": "tachiyomi-id.cgbum-v1.6.1.apk",
-      "sha256": "2a9c64d77d7945320ef947cdaf67b9f40d8030103c7fe0a8610e9f2f7c142979"
+      "name": "tachiyomi-id.cgbum-v1.6.2.apk",
+      "sha256": "032de1fd2962258bff26da369dcadbf98b822abe8160e3cbf1955581e6d40b3b"
     },
     "jar": {
-      "name": "tachiyomi-id.cgbum-v1.6.1.jar",
-      "sha256": "0e3926a1639f498d1c0cad2eec00d0c43dcced76b0975594dde7423c7ba05d3e"
+      "name": "tachiyomi-id.cgbum-v1.6.2.jar",
+      "sha256": "fb064138c4191012188c785f2633bd228047a6bae7c1bd120815b7882449cd91"
     }
   },
   "eu.kanade.tachiyomi.extension.id.comicaso": {
