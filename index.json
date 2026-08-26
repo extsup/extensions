@@ -8892,7 +8892,7 @@
         ]
       },
       {
-        "name": "Cgbum",
+        "name": "CGBUM",
         "packageName": "eu.kanade.tachiyomi.extension.id.cgbum",
         "resources": {
           "apkUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@ori/apk/tachiyomi-id.cgbum-v1.6.1.apk",
