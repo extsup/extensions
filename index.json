@@ -8895,12 +8895,13 @@
         "name": "Cgbum",
         "packageName": "eu.kanade.tachiyomi.extension.id.cgbum",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@ori/apk/tachiyomi-id.cgbum-v1.6.0.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@ori/apk/tachiyomi-id.cgbum-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@ori/icon/eu.kanade.tachiyomi.extension.id.cgbum.png",
-          "jarUrl": "https://raw.githubusercontent.com/extsup/extensions/ori/jar/tachiyomi-id.cgbum-v1.6.0.jar"
+          "jarUrl": "https://raw.githubusercontent.com/extsup/extensions/ori/jar/tachiyomi-id.cgbum-v1.6.1.jar"
         },
         "extensionLib": "1.6",
-        "versionName": "1.6.0",
+        "versionCode": "1",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
