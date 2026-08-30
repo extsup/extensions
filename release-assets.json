@@ -41,12 +41,12 @@
   },
   "eu.kanade.tachiyomi.extension.id.shinigamibeta": {
     "apk": {
-      "name": "tachiyomi-id.shinigamibeta-v1.4.3.apk",
-      "sha256": "420becf1925e91e5c772b022e1b23b900ca76b2d15e0ca434ee50b189d3d2085"
+      "name": "tachiyomi-id.shinigamibeta-v1.4.4.apk",
+      "sha256": "4bf4f28a7c4be03125c95e54ee79c26edc9b1be863ce05193b78b132f4c36945"
     },
     "jar": {
-      "name": "tachiyomi-id.shinigamibeta-v1.4.3.jar",
-      "sha256": "b0b4f8ddb2c1645aa6b2a30dd1f09982b35f8e2245901d706f00709245f4cb78"
+      "name": "tachiyomi-id.shinigamibeta-v1.4.4.jar",
+      "sha256": "414642891124abce9c031b17daea66c28c848c3e64ecf9848391df0147de6083"
     }
   },
   "eu.kanade.tachiyomi.extension.id.soulscansbeta": {
