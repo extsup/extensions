@@ -4462,11 +4462,11 @@
   "eu.kanade.tachiyomi.extension.id.komiknesia": {
     "apk": {
       "name": "tachiyomi-id.komiknesia-v1.4.2.apk",
-      "sha256": "417abd3e465683eb9d7a3468917ed33986c210edf7c882dff959ab0e74de385c"
+      "sha256": "277740a6b5e247821ee611fa9fbe061bcb5da317a61c52246370c4089fc63861"
     },
     "jar": {
       "name": "tachiyomi-id.komiknesia-v1.4.2.jar",
-      "sha256": "29ab560cc3c8e65d9b05dad75af5ef06db06bbe046dd80d92108192bfe01dfd0"
+      "sha256": "1b1b348d63ca3a76442c5cd2f048cb394ff91bba00b910afba5af67fc6eee445"
     }
   },
   "eu.kanade.tachiyomi.extension.id.komiknextgonline": {
