@@ -4512,11 +4512,11 @@
   "eu.kanade.tachiyomi.extension.id.komikuclub": {
     "apk": {
       "name": "tachiyomi-id.komikuclub-v1.4.33.apk",
-      "sha256": "fb7ab6a122d1904dcd08a79a1d24c2f03d99135969a63334f9c3f8dc90d3899d"
+      "sha256": "97f9ebfde55f925fbe55532ae7e4f397474af46d667078b9292d0621dfd614bf"
     },
     "jar": {
       "name": "tachiyomi-id.komikuclub-v1.4.33.jar",
-      "sha256": "f919c3a9adb1f86dca621e57f6cd250536cb86d1864199b6417221544bf3c235"
+      "sha256": "353e1df2bedf1e71f9142fdc6c2d05516e2bb272e88655b80116737167ac4015"
     }
   },
   "eu.kanade.tachiyomi.extension.id.komikucom": {
