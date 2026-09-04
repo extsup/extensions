@@ -4509,6 +4509,16 @@
       "sha256": "d3d9847cb4c17d09e26996f051fb5bf0e9a87a3b49ed1f4b516afabab76ef0c7"
     }
   },
+  "eu.kanade.tachiyomi.extension.id.komikuclub": {
+    "apk": {
+      "name": "tachiyomi-id.komikuclub-v1.4.33.apk",
+      "sha256": "fb7ab6a122d1904dcd08a79a1d24c2f03d99135969a63334f9c3f8dc90d3899d"
+    },
+    "jar": {
+      "name": "tachiyomi-id.komikuclub-v1.4.33.jar",
+      "sha256": "f919c3a9adb1f86dca621e57f6cd250536cb86d1864199b6417221544bf3c235"
+    }
+  },
   "eu.kanade.tachiyomi.extension.id.komikucom": {
     "apk": {
       "name": "tachiyomi-id.komikucom-v1.6.1.apk",

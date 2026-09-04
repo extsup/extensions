@@ -9522,6 +9522,27 @@
         ]
       },
       {
+        "name": "Komiku Club",
+        "packageName": "eu.kanade.tachiyomi.extension.id.komikuclub",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@ori/apk/tachiyomi-id.komikuclub-v1.4.33.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/extsup/extensions@ori/icon/eu.kanade.tachiyomi.extension.id.komikuclub.png",
+          "jarUrl": "https://raw.githubusercontent.com/extsup/extensions/ori/jar/tachiyomi-id.komikuclub-v1.4.33.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "33",
+        "versionName": "1.4.33",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "7614941951669764973",
+            "name": "Komiku Club",
+            "language": "id",
+            "homeUrl": "https://komiku.club"
+          }
+        ]
+      },
+      {
         "name": "Komiku.com",
         "packageName": "eu.kanade.tachiyomi.extension.id.komikucom",
         "resources": {
