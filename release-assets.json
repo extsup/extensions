@@ -4232,11 +4232,11 @@
   "eu.kanade.tachiyomi.extension.id.cosmicscansid": {
     "apk": {
       "name": "tachiyomi-id.cosmicscansid-v1.4.56.apk",
-      "sha256": "4612f9111ae5b23e695d98c5508e53b2230d64cdb7630ae76fb38d4175118d3f"
+      "sha256": "3e3b9bcd5e08b5876bf68b2911ff705019b5b70f0711fe68cbd8c3e660669ca9"
     },
     "jar": {
       "name": "tachiyomi-id.cosmicscansid-v1.4.56.jar",
-      "sha256": "5ebded34fc6cf4803ec0fccf36db2ccfc935ce26886c475703014400ad66cbd2"
+      "sha256": "57fd452feb0c98b1398273eab2ee89e90a50a1c19e0381632229d15337dd00c0"
     }
   },
   "eu.kanade.tachiyomi.extension.id.crotpedia": {
