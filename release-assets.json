@@ -4652,11 +4652,11 @@
   "eu.kanade.tachiyomi.extension.id.mangatale": {
     "apk": {
       "name": "tachiyomi-id.mangatale-v1.4.56.apk",
-      "sha256": "4a0fe41687f2debf4146140e56b3f1735b57b99e6cd9df1f5807c21f80831404"
+      "sha256": "20cc8dbc7e672c85f5bb28d110acc435a3c631d73a46d65e183ae3b4f4678380"
     },
     "jar": {
       "name": "tachiyomi-id.mangatale-v1.4.56.jar",
-      "sha256": "67df9c41f935a0333e32886c385458d5ad5f8b497d717485908f257ba030462f"
+      "sha256": "ca35547760b9870a2f9052fd11955acd1df6040c29d114a12319f57858fc8a50"
     }
   },
   "eu.kanade.tachiyomi.extension.id.manhwadesu": {
